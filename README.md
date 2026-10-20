@@ -4,12 +4,12 @@
 
 I'm a Software Engineer in Computer Science graduate from **ESI Algiers**, passionate about building useful software solutions, exploring AI, and solving real-world problems through technology.
 
-- 💻 Interested in full-stack development and software engineering.
-- 🤖 Exploring Machine Learning, Deep Learning, and AI in healthcare.
-- 🚀 Experienced in collaborative development, project management, and leading student tech initiatives.
-- 🌱 Always learning, building, and improving.
+- Interested in full-stack development and software engineering.
+- Exploring Machine Learning, Deep Learning, and AI in healthcare.
+- Experienced in collaborative development, project management, and leading student tech initiatives.
+- Always learning, building, and improving.
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend Development**
 
