@@ -2,7 +2,7 @@
 
 ### Junior Full-Stack Developer | Software Engineering 
 
-I'm a Software Engineer in Computer Science graduate from **ESI Algiers**, passionate about building useful software solutions, exploring AI, and solving real-world problems through technology.
+I'm a Software Engineering graduate from ESI Algiers focused on full-stack development, passionate about building useful software solutions, exploring AI, and solving real-world problems through technology.
 
 - Interested in full-stack development and software engineering.
 - Exploring Machine Learning, Deep Learning, and AI in healthcare.
